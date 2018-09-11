@@ -1,4 +1,4 @@
-# Point Cloud Library
+# Point Cloud Library (1.8.1)(支持c++11)
 
 <img src="http://ns50.pointclouds.org/assets/images/contents/logos/pcl/pcl_horz_large_pos.png" align="center" height="100">
 
